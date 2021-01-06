@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@lawcket/websocket": "^0.1.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.18.1",
     "lodash": "^4.17.19",
     "react": "^16.13.1",
